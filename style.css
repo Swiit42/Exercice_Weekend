@@ -1,0 +1,10 @@
+h1 {
+  font-size: 10px;
+}
+
+nav {
+  background-color: blue;
+}
+nav li {
+  color: black;
+}
